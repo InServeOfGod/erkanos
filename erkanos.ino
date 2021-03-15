@@ -3,6 +3,8 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
+// constant definitions
+
 #define voice 3951
 #define duration 250
 #define invalid "Yanlis Secim"

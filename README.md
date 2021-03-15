@@ -1,4 +1,3 @@
-
 Author : <InServeOfGod/>
 Unicode : ascii
 Language : Turkish (with ascii)
