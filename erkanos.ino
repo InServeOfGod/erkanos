@@ -1,20 +1,3 @@
-/*
-  Author : <InServeOfGod/>
-  Unicode : ascii
-  Language : Turkish
-  This arduino acts like a little pc and it has a few application.
-
-  Materials in use :
-
-  red, green, blue, and other leds...
-  temperature adapter
-  1 X 420 mOhm resistance, 2 X 1 kOhm resistance
-  LiquidCrystal_I2C lcd (1602A)
-  Sound Adapter
-
-  you can find out pins in constant variables
-*/
-
 #include <LiquidCrystal_I2C.h>
 #include <Keypad.h>
 #include <OneWire.h>
